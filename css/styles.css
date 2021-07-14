@@ -245,14 +245,14 @@ li {
 }
 
 .hero-content h2 {
-  color: #cc1f1f;
+  color: #426d97;
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 1rem;
 }
 
 .hero-content .discount {
-  color: #416b95;
+  color: #f72929;
 }
 
 .hero-content h1 span {
@@ -337,7 +337,7 @@ li {
 
 /* Adverts */
 .section {
-  padding: 5rem 0 5rem 0;
+  padding: 10rem 0 5rem 0;
 }
 
 .advert-center {
