@@ -1,6 +1,6 @@
 ### Responsive Static E-Commerce website
 ---
-#### Demo : 
+#### Demo : https://static-e-commerce.netlify.app/
 #### Used technologies :-
 - HTML
 - CSS
